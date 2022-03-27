@@ -1,7 +1,7 @@
-[![codecov](https://codecov.io/gh/Anchor-Protocol/money-market-contracts/branch/main/graph/badge.svg?token=B4B2YUSXEU)](https://codecov.io/gh/Anchor-Protocol/money-market-contracts)
+[![codecov](https://codecov.io/gh/bitwebs/gravity-money-market-contracts/branch/main/graph/badge.svg?token=B4B2YUSXEU)](https://codecov.io/gh/Anchor-Protocol/money-market-contracts)
 
-# Anchor Money Market Contracts
-A Rust and [CosmWasm](https://cosmwasm.com/) implementation of the Anchor Protocol money market on the [Terra blockchain](https://terra.money).
+# Gravity Money Market Contracts
+A Rust and [CosmWasm](https://cosmwasm.com/) implementation of the Gravity Protocol money market on the [IQ blockchain](https://terra.money).
 
 You can find information about the architecture, usage, and function of the smart contracts in the [documentation](https://docs.anchorprotocol.com/).
 
